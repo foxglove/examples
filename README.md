@@ -3,6 +3,6 @@ Welcome to the Examples repository! This repository contains a collection of exa
 
 ## Examples
 - Agent
-  - [Agent cleanup CLI] (https://github.com/foxglove/examples/tree/main/agent/data_retention)
+  - [Agent cleanup CLI](https://github.com/foxglove/examples/tree/main/agent/data_retention)
 - MCAP
-  - [MCAP List Schemas Detail]
+  - [MCAP List Schemas Detail](https://github.com/foxglove/examples/tree/main/mcap)
